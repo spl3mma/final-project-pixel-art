@@ -1,2 +1,2 @@
 # final-project-pixel-art
-A pixel art with potential animation
+A pixel art frog with potential animation
