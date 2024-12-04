@@ -5,6 +5,7 @@ Demo:
 https://youtu.be/MXlsQn5b2wE
 
 GitHub Repository:
+https://github.com/spl3mma/final-project-pixel-art.git
 
 
   My project is about a small frog who can hop along your screen using the arrow keys. The Pygame library was used for this project, as I considered it to be similar to the foundation of a game; creating a sprite sheet! Pixilart was used to create the different sprites, and the background was an open source image found on Reddit. My initial scope of the project was not quite complex enough, so I added the ability to move the frog, (I named him Blit!) 
